@@ -1,4 +1,4 @@
-Age;Gender;Height;Weight;BMI;physical activity;Label
+Age;Gender;Height;Weight;BMI;physical activity;class
 25;Male;175;80;25.3;0;Normal Weight
 30;Female;160;60;22.5;1;Normal Weight
 35;Male;180;90;27.3;1;Overweight
